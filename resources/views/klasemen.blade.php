@@ -1,5 +1,3 @@
-<!-- resources/views/klasemen.blade.php -->
-
 @extends('layouts.main')
 
 @section('container')
